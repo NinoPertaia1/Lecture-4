@@ -161,6 +161,7 @@ a{
 	margin-left: 40px;
 	padding-top: 12px;
 	padding-left: 10px;
+	margin-bottom: 10px;
 }
 
 .S7{
@@ -189,4 +190,23 @@ a{
 .font1{
 	font-size: 16px;
 	color: #3d58a6 ;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: bold;
+}
+
+
+.fontroboto{
+	font-family: 'Roboto', sans-serif;
+}
+
+li{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+
+h4{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.p1{
+	font-family: "BPG Ingiri Arial", sans-serif;
 }
