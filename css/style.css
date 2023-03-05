@@ -1,0 +1,192 @@
+H2 {
+	color: #EE4036;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
+
+
+.highlited {
+	color:#EE4036 ;
+}
+
+.imgdisplaystyle1{
+	display: inline-flex;
+	margin-left: 40px;
+}
+
+.imgdisplaystyle2{
+	display: block;
+	margin-left: 40px;
+	margin-bottom: 30px;
+
+}
+
+
+h3 {
+	color:#FFFFFF;
+	Display: inline-flex;
+	background-color: #3D58A6;
+	font-size: 48px ;
+	margin-left: 40px;
+}
+.fontcolormonth{
+	color:#3D58A6;
+	margin-bottom: 20px;
+}
+
+
+
+h4{
+	font-size: 22px;
+	margin-left: 40px;
+}
+
+li{
+	color: #3D58A6;
+	font-size: 22px;
+	font-weight: bold;
+	
+}
+
+ul{
+	list-style-type: none;
+
+}
+
+header{
+	display: inline-block;
+	margin-right: 50px;
+	margin-bottom: 60px;
+	margin-top: 30px;
+	margin-left: 40px;
+}
+
+nav {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	margin-right: 30px;
+
+}
+
+.S-1{
+	display: inline-block;
+	margin-top: 20px;
+}
+
+
+.d1{
+	display: inline-block;
+	vertical-align: text-top;
+}
+
+.d2{
+	display: inline-block;
+	vertical-align: top;
+	width: 800px;
+	margin-left: 20px;
+}
+
+.p1 {
+	margin-top: 20px;
+}
+
+.p2{
+	margin-bottom: 30px;
+	margin-left: 40px;
+}
+
+
+
+.mydiv2{
+	display: inline-block;
+}
+
+.p3 {
+	width: 345px;
+	height: 143px;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-size: 20px;
+	vertical-align: top;
+}
+
+.p4{
+	margin-top: 18px;
+	margin-left: 20px;
+	font-size: 22px;
+	color: #3d58a6;
+}
+
+.imgmargins{
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+.Section1{
+	display: inline-block;
+	Width:570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	vertical-align: top;
+}
+
+.Margin1{
+	margin-left: 40px;
+}
+
+.Margin2{
+	margin-left: 20px;
+}
+
+footer{
+	margin-top: 30px;
+}
+
+a{
+	color: #3d58a6;
+}
+
+.mydiv3{
+	width:56px;
+	height: 56px;
+	color:#FFFFFF;
+	Display: inline-box;
+	background-color: #3D58A6;
+	font-size: 37px ;
+	margin-left: 40px;
+	padding-top: 12px;
+	padding-left: 10px;
+}
+
+.S7{
+	width: 1366px;
+	height: 570px;
+	background-color: #e6e6e7;
+	display: block;
+	padding-top: 62px;
+	padding-left: 97px;
+
+}
+
+.mydiv4{
+	width: 247px;
+	height: 95px;
+	display: inline-block;
+	vertical-align: text-top;
+	margin-right: 78px;
+}
+
+.mydiv5{
+	display: inline-block;
+	vertical-align: text-top;
+}
+
+.font1{
+	font-size: 16px;
+	color: #3d58a6 ;
+}
